@@ -1,6 +1,6 @@
 # CURTISCON 0x00 Faxes
 
-**CURTISCON 0x00** (CURTISCON 2025) took place on Saturday, November 15, 2025. Attendees could send faxes to the event line provided here as-is.
+**CURTISCON 0x00** (CURTISCON 2025) took place on Saturday, November 15, 2025, in Philadelphia PA. Attendees could send faxes to the event line provided here as-is.
 
 Original files live in [`faxes/`](faxes/).
 
